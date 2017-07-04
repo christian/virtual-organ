@@ -1,0 +1,28 @@
+
+.root{
+    -fx-background: rgb(225, 228, 203);
+}
+
+.toggle-button {
+  -fx-font-size: 12pt;
+}
+
+.division-label {
+  -fx-padding: 5px;
+  -fx-font-size: 16pt;
+  -fx-font-family: cursive;
+  -fx-background-color: ivory;
+}
+
+.toggle-button:selected {
+
+   /* -fx-effect: innershadow( gaussian , rgba(0,0,0,0.7) , 20,0,0,0 ); */
+}
+
+/*
+.toggle-button:selected:focused {
+  -fx-background-color: gray;
+    -fx-color: white;
+}
+
+*/

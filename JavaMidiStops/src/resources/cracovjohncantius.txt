@@ -1,0 +1,49 @@
+Pedal|Contrebasse 16'|41|black|stop
+Pedal|Soubasse 16'|42|black|stop
+Pedal|Octave 8'|43|black|stop
+Pedal|Violoncelle 8'|44|black|stop
+Pedal|Flûte 4'|45|black|stop
+Pedal|Bombarde 16'|46|crimson|stop
+Pedal|M I - P|47|black|coupler
+Pedal|M II - P|48|black|coupler
+Pedal|M III - P|49|black|coupler
+Pedal||0|black|space
+Manual I|Bourdon 16'|2|black|stop
+Manual I|Montre 8'|3|black|stop
+Manual I|Flûte Harmonique 8'|4|black|stop
+Manual I|Bourdon 8'|5|black|stop
+Manual I|Viole de Gambe 8'|6|black|stop
+Manual I|Prestant 4'|7|black|stop
+Manual I|Flûte douce 4'|8|black|stop
+Manual I|Doublette 2'|9|black|stop
+Manual I|Cornet 5x|10|black|stop
+Manual I|Plein Jeu 5x|11|black|stop
+Manual I|Trompette 8'|12|crimson|stop
+Manual I|Clairon 4'|13|crimson|stop
+Manual I|M III - M I|14|black|coupler
+Manual I|M II - M I|15|black|coupler
+Manual II|Cor de Nuit 8'|16|black|stop
+Manual II|Salicional 8'|17|black|stop
+Manual II|Unda Maris 8'|18|black|stop
+Manual II|Clarinette 8'|19|black|stop
+Manual II|Prestant 4'|20|black|stop
+Manual II|Dolce 4'|21|black|stop
+Manual II|Nazard 2 2/3'|22|black|stop
+Manual II|Octavin 2'|23|black|stop
+Manual II|Tierce 1 3/5'|24|black|stop
+Manual II|Cromorne 8'|25|crimson|stop
+Manual II|Tremulant|26|green|stop
+Manual II|M III - M II|27|black|stop
+Manual III|Flûte Traversière 8'|28|black|stop
+Manual III|Bourdon 8'|29|black|stop
+Manual III|Aeoline 8'|30|black|stop
+Manual III|Voix Céleste 8'|31|black|stop
+Manual III|Flûte Octaviante 4'|32|black|stop
+Manual III|Fugara 4'|33|black|stop
+Manual III|Doublette 2'|34|black|stop
+Manual III|Harmonia Aethera 4x|35|black|stop
+Manual III|Basson 16'|36|crimson|stop
+Manual III|Trompette Harmonique 8'|37|crimson|stop
+Manual III|Hautbois 8'|38|crimson|stop
+Manual III|Clairon 4'|39|crimson|stop
+Manual III|Tremulant|40|green|stop
